@@ -9,3 +9,7 @@ p {
 body {
   background-color: purple;
 }
+
+div {
+  padding-right: 50px
+}
